@@ -1,0 +1,26 @@
+img {
+    border-radius: 50px;
+    width: 100px;
+  }
+  
+  h2 {
+    font-size: 18px;
+  }
+  
+  body {
+    background: rgb(91,76,76);
+    background: linear-gradient(179deg, rgba(91,76,76,1) 0%, rgba(51,46,41,1) 92%);
+    font-family: 'Trebuchet MS';
+    color: white;
+  }
+  
+  a {
+    background-color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    display: block;
+    text-align: center;
+    margin: 10px;
+    color: slateblue;
+  }
